@@ -13,4 +13,4 @@ class quoteNaruto(Resource):
 
 api.add_resource(quoteNaruto, '/')
 if __name__ == '__main__':
-    app.run()x''
+    app.run()
